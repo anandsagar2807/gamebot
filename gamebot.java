@@ -16,8 +16,12 @@ public class gamebot {
                 case 2: mathQuiz(); break;
                 case 3: System.out.println("Goodbye!"); return;
                 default: System.out.println("Invalid choice! Try again.");
+
+
             }
         }
+System.out.println("THANK YOU BHARGAVI");
+
     }
 
     private static void guessTheNumber() {
@@ -51,3 +55,5 @@ public class gamebot {
         }
     }
 }
+
+
