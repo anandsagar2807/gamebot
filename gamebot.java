@@ -20,7 +20,7 @@ public class gamebot {
 
             }
         }
-System.out.println("THANK YOU BHARGAVI");
+
 
     }
 
